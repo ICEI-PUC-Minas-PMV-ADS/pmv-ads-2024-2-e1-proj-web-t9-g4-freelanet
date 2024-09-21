@@ -61,8 +61,17 @@ Desta forma, a equipe está organizada da seguinte maneira:
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Para organização e distribuição das tarefas do projeto, nossa equipe está utilizando o GitHub, estruturado com as seguintes listas:
+
+- Backlog: Nesta lista são colocadas todas as tarefas a serem feitas para entrega da etapa atual.
+- To Do: Nesta lista são colocados todos os tópicos e subtópicos convertidos em issues. Essas tarefas devem ser atribuídas a algum integrante.
+- In progress: Nesta lista são colocadas as tarefas que se encontram associadas a algum participante e já foram iniciadas.
+- Done: Nesta lista são colocadas as tarefas finalizadas.
  
+O quadro Kanban do grupo no GitHub está disponível no link https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1415/views/1 e é apresentado, no estado atual, na figura abaixo:
+![Quadro Kanban](https://github.com/user-attachments/assets/9dc44cf2-a646-47a2-bbe0-3ec40259b022)
+
+
 > **Links Úteis**:
 > - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
