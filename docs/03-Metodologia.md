@@ -65,14 +65,16 @@ O quadro Kanban do grupo no GitHub está disponível no link https://github.com/
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- **Editor de código**: Utilizamos o [Visual Studio Code](https://code.visualstudio.com/), uma ferramenta amplamente conhecida e utilizada por desenvolvedores. Sua escolha se justifica pela excelente integração com o sistema de controle de versão [GitHub](https://github.com/), facilitando o fluxo de desenvolvimento e a colaboração entre os membros da equipe. Além disso, o Visual Studio Code oferece uma vasta gama de extensões que aumentam a produtividade e suportam diversas tecnologias.
+  
+- **Ferramentas de comunicação**: Optamos pelo uso do [Microsoft Teams](https://teams.microsoft.com/l/channel/19%3Af5f08eeabc6e495883e753c5e13b1e8f%40thread.tacv2/G4%20-%20Quarta%20%C3%A0s%2019_00?groupId=d989a056-01a4-466f-9044-de0647f28e84&tenantId=14cbd5a7-ec94-46ba-b314-cc0fc972a161&ngc=true) como ferramenta de comunicação principal. O Teams se destaca pela integração com outras ferramentas do Office 365 e oferece funcionalidades como videoconferências, chats e compartilhamento de arquivos, essenciais para mantermos a comunicação constante e eficiente entre os membros da equipe, especialmente em um ambiente de trabalho remoto. Também possibilita a criação de canais de discussão para assuntos específicos do projeto, otimizando a organização das tarefas.
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+- **Ferramentas de desenho de tela (wireframing e user flow)**: Para a confecção dos wireframes, utilizamos o [Canva](https://www.canva.com/), uma ferramenta intuitiva e de fácil uso, ideal para prototipagem rápida de interfaces, permitindo que mesmo usuários com pouca experiência em design técnico possam criar layouts funcionais e eficientes. O [Figma](https://www.figma.com/) é utilizado tanto para criar o user flow quanto para a otimização dos wireframes desenvolvidos no Canva. O Figma é amplamente utilizado pela sua capacidade de colaboração em tempo real e pelas suas poderosas ferramentas de design.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+Essas ferramentas foram escolhidas devido à sua capacidade de integrar-se ao fluxo de desenvolvimento, promovendo maior eficiência e colaboração entre os membros da equipe.
+
+> **Possíveis Ferramentas que auxiliarão no gerenciamento**:
+> - [GitHub](https://github.com/)
+> - [Kanban GitHub](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1415)
+> - [Figma](https://www.figma.com/)
+> - [Canva](https://www.canva.com/)
