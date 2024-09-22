@@ -6,7 +6,7 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+As pequenas organizações enfrentam frequentemente desafios na implementação e manutenção de soluções tecnológicas devido aos limitados recursos internos especializados. Ao mesmo tempo, os profissionais de TI autônomos que possuem as habilidades necessárias para atender a essas necessidades estão lutando para se conectar com essas organizações. O projeto Freelanet pretende desenvolver uma plataforma que facilite esta ligação, oferecendo uma solução prática para ambas as partes, permitindo às empresas atenderem aos serviços de TI de forma eficiente e aos freelancers chegarem aos seus clientes de forma mais eficaz. 
 
 ## Integrantes
 
