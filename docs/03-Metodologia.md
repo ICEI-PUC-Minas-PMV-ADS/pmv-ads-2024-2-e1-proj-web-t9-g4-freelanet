@@ -72,9 +72,3 @@ As ferramentas empregadas no projeto são:
 - **Ferramentas de desenho de tela (wireframing e user flow)**: Para a confecção dos wireframes, utilizamos o [Canva](https://www.canva.com/), uma ferramenta intuitiva e de fácil uso, ideal para prototipagem rápida de interfaces, permitindo que mesmo usuários com pouca experiência em design técnico possam criar layouts funcionais e eficientes. O [Figma](https://www.figma.com/) é utilizado tanto para criar o user flow quanto para a otimização dos wireframes desenvolvidos no Canva. O Figma é amplamente utilizado pela sua capacidade de colaboração em tempo real e pelas suas poderosas ferramentas de design.
 
 Essas ferramentas foram escolhidas devido à sua capacidade de integrar-se ao fluxo de desenvolvimento, promovendo maior eficiência e colaboração entre os membros da equipe.
-
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**:
-> - [GitHub](https://github.com/)
-> - [Kanban GitHub](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1415)
-> - [Figma](https://www.figma.com/)
-> - [Canva](https://www.canva.com/)
