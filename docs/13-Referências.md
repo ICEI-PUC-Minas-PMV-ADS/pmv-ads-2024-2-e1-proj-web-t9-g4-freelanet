@@ -12,6 +12,3 @@ TOPTAL. Toptal. Disponível em: https://www.toptal.com/. Acesso em: 22 set. 2024
 
 99FREELAS. 99Freelas. Disponível em: https://www.99freelas.com.br/. Acesso em: 22 set. 2024.
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
