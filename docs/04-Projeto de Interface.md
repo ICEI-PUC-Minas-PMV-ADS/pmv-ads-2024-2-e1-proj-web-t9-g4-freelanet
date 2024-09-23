@@ -15,23 +15,15 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
-
 ## Wireframes
 
 [Freelanet - Tela Inicial.pdf](https://github.com/user-attachments/files/17092097/Freelanet.-.Tela.Inicial.pdf)
 
+![Home](https://github.com/user-attachments/assets/7157fcbf-8c3e-4d8d-aff1-5d03bfb7d95e)
+![Home (2)](https://github.com/user-attachments/assets/c30ed127-9739-40ea-8ff3-8fdefa00ced4)
+![About](https://github.com/user-attachments/assets/e8da75c9-752d-4999-b0e1-ca8fe4eac45c)
+![4](https://github.com/user-attachments/assets/ef13759e-0a0a-41a1-8a05-917bcb94de86)
+![6](https://github.com/user-attachments/assets/ca57bd68-ea11-434a-884b-03832e6f2a3c)
+![7](https://github.com/user-attachments/assets/95b06802-1331-47bb-8256-33d4a8d31848)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
