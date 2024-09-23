@@ -81,7 +81,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Freelancer de TI | Criar um perfil detalhado e listar meus serviços   | Atrair clientes com necessidades específicas. |
 |Empresa | Filtrar e encontrar rapidamente freelancers qualificados  | Resolver meus problemas técnicos de maneira eficiente.  |
 |Profissional Iniciante|Oportunidades para ganhar experiência  | Construir meu portifólio  |
-|Aluno | Sanar dúvidas que tenho sobre as matérias do curso com outros alunos ou ex-alunos   | Compreender melhor as matérias e criar uma rede de contatos. |
 
 ## Requisitos
 
